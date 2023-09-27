@@ -1,0 +1,4 @@
+& a ab abc b bc c 
+& w wzy zy 
+Cadena no valida
+& a h ho hol hola l la o ol ola 

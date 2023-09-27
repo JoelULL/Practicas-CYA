@@ -1,0 +1,25 @@
+Variables detectadas:
+[linea: 10 ]   int number;
+[linea: 11 ]   int numberTwo = 2;
+[linea: 12 ]   double giantNumber = 4000;
+[linea: 13 ] int h = 4;
+[linea: 15 ]   int withComment;
+[linea: 16 ]   int othercomment = 2;
+comentarios detectados:
+[linea: 6 ] /*Main que debe ser detectado como este comentario*/
+[linea: 7 ] //ah y este tambien
+[linea: 13 ]  //segundo
+[linea: 13 ]   /*primer*/
+[linea: 15 ]  /*este comentario deberia de salir*/
+[linea: 16 ]  // este tambien debe salir
+[linea: 18 ]  //for loop comment
+[linea: 20 ]   // este tiene un espacio pero tambien
+[linea: 23 ]   /*behind loop*/
+bucles detectados:
+[linea: 18 ]Loop: for
+[linea: 21 ]Loop: for
+[linea: 23 ]Loop: for
+[linea: 24 ]Loop: while
+[linea: 25 ]Loop: for
+
+MAIN: True

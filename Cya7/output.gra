@@ -1,0 +1,22 @@
+Numero de simbolos del alfabeto: 2
+Los simbolos del alfabeto son: 
+0
+1
+Numero de simbolos no terminales: 4
+Los simbolos no terminales son: 
+q3
+q2
+q1
+q0
+El simbolo de arranque de la gramatica es: q0
+Numero total de producciones: 9
+Las producciones de la gramatica son: 
+q3 -> 0q2
+q3 -> 1q3
+q2 -> 0q1
+q2 -> 1q3
+q1 -> &
+q1 -> 0q1
+q1 -> 1q1
+q0 -> 0q2
+q0 -> 1q1

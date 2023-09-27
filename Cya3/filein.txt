@@ -1,0 +1,3 @@
+L1 = {a, aabb}
+L2 = {aa, bb}
+L2 L1 -
